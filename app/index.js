@@ -13,7 +13,8 @@ export function app() {
       <Xroute path="/about">
         <div>Hello world!</div>
         <Xlink href='/'>Go to Home</Xlink>
-      </Xrouter>
+      </Xroute>
+    </Xrouter>
   `
 }
 
